@@ -6,3 +6,5 @@
 # Ejercicios de Python
 En el siguiente directorio se van a subir todos los **ejercicios** realizados en diferentes curso y recursos de **Programación** con el lenguaje Python. 
 Habrá tanto ejercicios de POO como Funcional entre otros.
+
+Tambien se agrego la carpeta con ejercicios y proyecto del reto Python inpartido por Codigo Facilito.
