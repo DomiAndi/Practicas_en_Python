@@ -7,4 +7,22 @@
 En el siguiente directorio se van a subir todos los **ejercicios** realizados en diferentes curso y recursos de **Programación** con el lenguaje Python. 
 Habrá tanto ejercicios de POO como Funcional entre otros.
 
-Tambien se agrego la carpeta con ejercicios y proyecto del reto Python inpartido por Codigo Facilito.
+Se agrego una carpeta con el contenido de Reto Python inpartido por Codigo Facilito.
+
+Tambien una carpeta con una practica de conversor de medidas
+
+# Conversor de medidas
+
+Realizamos un programa en Python con Pandas y OpenPyXl en el cual leemos un archivo Excel y convertimos las unidades de Cms en Pulgadas
+
+Para poder ejecultar este proyecto después de clonarlo debes hacer en la carpeta del proyecto la siguiente instrucción:
+
+```
+pip install -r requirements.txt
+```
+
+Una vez hecho esto, para que convierta el Excel de CMS a Pulgadas debemos ejecutar en consola
+
+```
+python programa_conversor.py
+```
